@@ -1,0 +1,19 @@
+p {
+  display: none;
+}
+
+.highlight {
+  background-color: yellow;
+  color: purple;
+}
+
+.highlight p {
+  display: block;
+
+}
+
+li {
+  color: blue;
+  text-decoration: underline;
+  font-size: 20px;
+}
