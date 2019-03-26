@@ -2,7 +2,6 @@ $(function() {
   $("#clickable1").click(function() {
     $("#clickable1").removeClass();
     $("#clickable1").addClass("highlight");
-    $("p#clickable").show();
   });
 });
 
@@ -10,7 +9,6 @@ $(function() {
   $("#clickable2").click(function() {
     $("#clickable2").removeClass();
     $("#clickable2").addClass("highlight");
-    // $("p#clickable2").show();
   });
 });
 
